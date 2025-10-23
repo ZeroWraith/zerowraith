@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ZeroWraith/zerowraith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Aaditya Pratap Singh 👋
+### (Handle: @zerowraith)
+
+I'm a Computer Vision and AI developer building high-performance, real-world applications.
+
+- 🔭 I’m currently building: OpenCV Projects
+- 💼 Let's connect on [LinkedIn](www.linkedin.com/in/aps-cv)
+- 📫 How to reach me: [aaditya9feb@gmail.com]

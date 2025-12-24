@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 I'm a Computer Vision and AI developer building high-performance, real-world applications.
 
 - 🔭 I’m currently building: OpenCV Projects
-- 💼 Let's connect on [LinkedIn](www.linkedin.com/in/aaditya-python)
+- 💼 Let's connect on [[LinkedIn]](www.linkedin.com/in/aaditya-python)
 - ✍️ I write about my process and learnings on [my technical blog](https://zerowraith.github.io)
 - 📫 How to reach me: [aaditya9feb@gmail.com]
